@@ -3,7 +3,7 @@
 
 *The aim of conducting this project is to investigate the fuzzy distortion created in an audio signal, design an equalizer, and find the original and real signal. For this purpose, we intend to analyze a signal containing two harmonics, remove its harmonics, and obtain the original signal. In the end, we also strive to achieve a better understanding of correlation relationships during the passage through an LTI system in a numerical processing.*
 
-The completed sections of the project are as follows: (CA2_Matlab_810198369.mlx)
+The completed sections of the project are as follows: (CA1_Matlab_810198369.mlx)
 
 **1- Please perform the Fourier transformation on the audio file "data.wav"**
 
